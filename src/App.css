@@ -1,6 +1,10 @@
-.app {
+body {
   background-color: #f5f5eb;
-  height: 100vh;
+}
+
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
 }
 
 header {
@@ -20,4 +24,13 @@ button {
   font-weight: bold;
   color: #fff;
   background-color: #000;
+}
+
+.charts {
+  height: 500px;
+}
+
+.special {
+  height: 800px;
+  padding-bottom: 20px;
 }
